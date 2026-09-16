@@ -126,3 +126,9 @@ Independent of Waggle, for bench work before a node is involved:
 
     python3 scripts/tasmota_log.py --duration 300 --interval 1.0 \
         --label thor-idle --out thor_idle.csv
+
+## Resources
+
+- https://tasmota.github.io/docs/
+- https://tasmota.github.io/docs/Commands/
+- https://devices.esphome.io/devices/iotorero-smart-plug-pg03v3-us16a/
