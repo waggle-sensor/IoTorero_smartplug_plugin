@@ -1,0 +1,13 @@
+name: "smartplug-power"
+version: "0.1.0"
+description: "Publishes AC power, voltage, current and energy from a Tasmota smart plug polled over HTTP."
+keywords: "power, energy, tasmota, smartplug, cse7766"
+authors: "Francisco Lozano"
+collaborators: ""
+funding: ""
+license: ""
+homepage: ""
+source:
+  architectures:
+    - "linux/amd64"
+    - "linux/arm64"
